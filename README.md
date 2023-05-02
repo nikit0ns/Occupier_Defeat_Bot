@@ -1,1 +1,1 @@
-# Occupier_Defeat_Bot
+# @Occupier_Defeat_Bot - Telegram Bot
