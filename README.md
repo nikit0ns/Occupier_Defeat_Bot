@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # @Occupier_Defeat_Bot - Telegram Bot
 
 - :military_helmet: Total combat losses of the Russian occupier.
